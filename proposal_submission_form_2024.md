@@ -9,6 +9,11 @@
 
 
 #### A visual
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/b85f77fb-d594-45ed-8791-7e801501dd39">
+
+<img width="1010" alt="image" src="https://github.com/user-attachments/assets/6311dfdf-417a-4afe-ac78-e7b203e73ede">
+
+
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
