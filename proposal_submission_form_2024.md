@@ -18,11 +18,11 @@
 -->
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
-- [ ] Access to care
+- [x] Access to care
 > How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
 - [ ] Patient satisfaction
 > How can we make it more convenient for patients to provide real-time feedback about their healthcare experience through a mobile app?
-- [ ] New patient experience
+- [x] New patient experience
 > As a potential new customer, how can we leverage the mobile app to help new patients better understand what services are available to them?
 - [ ] Managing my health
 > Itâ€™s easy to get overwhelmed by all the tasks patients often have to do to maintain their health, how can we make managing health more enjoyable?
@@ -36,10 +36,10 @@
 > How can we leverage technology to improve healthcare access for rural and remote communities, ensuring timely and specialized care for those in underserved areas? (Focus on SDSU Imperial Valley Connection - Rural/Remote)
 - [ ] Enhancing disease prevention (For Geocomputational Thinker Awards)
 > How can big (geospatial) data analytics and AI be used to improve access to information about the influence of human behavior, cultural practices, and social interactions on the spread of diseases?
-- [ ] Addressing environmental health disparities (For Geocomputational Thinker Awards)
+- [x] Addressing environmental health disparities (For Geocomputational Thinker Awards)
 > How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `rachit-j`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members `Luna Iwazaki: lunaiwa, Ethan Tran: realethantran, Shuban Pal: shuban-789, Rachit Jaiswal: rachit-j`
