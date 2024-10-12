@@ -5,7 +5,7 @@
 #### Team Name: TEAM GOJO   
   
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### Creating a secure patient profile that can be readily scanned and universally used across different healthcare providers.
 
 
 #### A visual
