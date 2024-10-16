@@ -52,9 +52,11 @@ TODO
 
 - [LinkID Frontend (JS, HTML, SCSS)](https://github.com/TEAM-GOJO/MediLink)
 - [LinkID Backend (Python)](https://github.com/TEAM-GOJO/MediLinkBackend)
-- [LinkID Blockchain (Go)](https://github.com/TEAM-GOJO/LinkID-Blockchain
+- [LinkID Blockchain (Go)](https://github.com/TEAM-GOJO/LinkID-Blockchain)
 
-  [![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-GOJO&repo=MediLink)](https://github.com/anuraghazra/github-readme-stats)
+[![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-GOJO&repo=MediLink&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-GOJO&repo=MediLinkBackend&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Blockchain](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-GOJO&repo=LinkID-Blockchain&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Big Data Hackathon for San Diego 2024
