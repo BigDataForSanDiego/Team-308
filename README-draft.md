@@ -42,12 +42,19 @@ TODO
 
 #### Team Members `Luna Iwazaki: lunaiwa, Ethan Tran: realethantran, Shuban Pal: shuban-789, Rachit Jaiswal: rachit-j`
 
-## Technicals
+## ⚙️ Technicals
 
 ### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,javascript,html,scss)](https://skillicons.dev)
 
+### Tech Stack
+
+- [LinkID Frontend (JS, HTML, SCSS)](https://github.com/TEAM-GOJO/MediLink)
+- [LinkID Backend (Python)](https://github.com/TEAM-GOJO/MediLinkBackend)
+- [LinkID Blockchain (Go)](https://github.com/TEAM-GOJO/LinkID-Blockchain
+
+  [![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-GOJO&repo=MediLink)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Big Data Hackathon for San Diego 2024
