@@ -55,7 +55,9 @@ TODO
 - LinkID Blockchain (Go)
 
 [![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-GOJO&repo=MediLink&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Backend](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-GOJO&repo=MediLinkBackend&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Blockchain](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-GOJO&repo=LinkID-Blockchain&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
