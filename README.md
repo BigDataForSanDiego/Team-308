@@ -41,10 +41,16 @@
 - [ ] Addressing environmental health disparities (For Geocomputational Thinker Awards)
 > How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
-
 #### Team Coordinator GitHub Username: `rachit-j`
 
 #### Team Members `Luna Iwazaki: lunaiwa, Ethan Tran: realethantran, Shuban Pal: shuban-789, Rachit Jaiswal: rachit-j`
+
+## Stack Layout
+
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,go,javascript,html,scss)](https://skillicons.dev)
+
 # Big Data Hackathon for San Diego 2024
 <!-- ~~## OCT 12 (Day 1): Proposal Submission Guidelines~~ -->
 ## OCT 12 (Day 1): Proposal Submission Guidelines
