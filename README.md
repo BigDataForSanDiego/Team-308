@@ -9,11 +9,8 @@
 
 
 #### A visual
-![image](https://github.com/user-attachments/assets/9aac67f2-a837-452d-9759-33a87c35f9f1)
 
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
-
+TODO
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
 #### - Digital solutions to help increase access, manage health, and improve patient satisfaction along the healthcare journey -  
@@ -45,11 +42,13 @@
 
 #### Team Members `Luna Iwazaki: lunaiwa, Ethan Tran: realethantran, Shuban Pal: shuban-789, Rachit Jaiswal: rachit-j`
 
-## Stack Layout
+## Technicals
 
 ### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,javascript,html,scss)](https://skillicons.dev)
+
+
 
 # Big Data Hackathon for San Diego 2024
 <!-- ~~## OCT 12 (Day 1): Proposal Submission Guidelines~~ -->
@@ -68,7 +67,10 @@
 
 
 
+![image](https://github.com/user-attachments/assets/9aac67f2-a837-452d-9759-33a87c35f9f1)
 
+![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
+<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
 <!-- ~~## OCT 19: Confirmation Form Submission~~ -->
 <!--
