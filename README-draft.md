@@ -4,8 +4,8 @@
 
 #### Team Name: TEAM GOJO   
   
-#### Your teamâ€™s hackathon idea in One sentence:
-##### Creating a secure patient profile that can be readily scanned and universally used across different healthcare providers.
+#### 💡 Hackathon idea in One sentence:
+> Creating a secure patient profile that can be readily scanned and universally used across different healthcare providers.
 
 
 #### A visual
