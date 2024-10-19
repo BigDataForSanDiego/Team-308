@@ -10,7 +10,8 @@
 
 #### A visual
 
-TODO
+![image](https://github.com/user-attachments/assets/9aac67f2-a837-452d-9759-33a87c35f9f1)
+
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
 #### - Digital solutions to help increase access, manage health, and improve patient satisfaction along the healthcare journey -  
