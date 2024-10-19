@@ -4,6 +4,8 @@
 
 #### Team Name: TEAM GOJO   
 
+#### [Video Link](https://youtu.be/VEbHRiRp7zE)
+
 #### [Organization Link](https://github.com/TEAM-GOJO)
 
 #### [Project Board](https://github.com/orgs/TEAM-GOJO/projects/1/views/1?layout=board)
