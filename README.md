@@ -3,6 +3,8 @@
 #### Team Number: 308  
 
 #### Team Name: TEAM GOJO   
+
+#### [Organization Link](https://github.com/TEAM-GOJO)
   
 #### Your teamâ€™s hackathon idea in One sentence:
 ##### Creating a secure patient profile that can be readily scanned and universally used across different healthcare providers.
