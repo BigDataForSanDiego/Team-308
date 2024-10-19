@@ -5,7 +5,9 @@
 #### Team Name: TEAM GOJO   
 
 #### [Organization Link](https://github.com/TEAM-GOJO)
-  
+
+#### [Project Board](https://github.com/orgs/TEAM-GOJO/projects/1/views/1?layout=board)
+
 #### Your teamâ€™s hackathon idea in One sentence:
 ##### Creating a secure patient profile that can be readily scanned and universally used across different healthcare providers.
 
